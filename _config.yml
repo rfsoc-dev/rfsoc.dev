@@ -7,6 +7,8 @@ url: https://rfsoc.dev
 aux_links:
   GitHub: https://github.com/rfsoc-dev
 
+aux_links_new_tab: true
+
 # Footer content
 footer_content: "Copyright &copy; 2024 <a href='https://wqzhao.org' target='_blank'>Wuqiong Zhao</a> from UC San Diego."
 # Footer "Edit this page on GitHub" link text
@@ -16,3 +18,8 @@ gh_edit_repository: "https://github.com/rfsoc-dev/rfsoc.dev" # the github URL fo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
