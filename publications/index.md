@@ -1,8 +1,8 @@
 ---
 title: Publications
 permalink: /publications
-layout: home
-nav_order: 5
+layout: default
+nav_order: 6
 ---
 
 # Publications

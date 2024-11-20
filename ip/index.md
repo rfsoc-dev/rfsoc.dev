@@ -1,7 +1,7 @@
 ---
 title: IP Cores
 permalink: /ip
-layout: home
+layout: default
 nav_order: 2
 ---
 
