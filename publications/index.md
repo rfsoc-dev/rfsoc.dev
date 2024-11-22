@@ -12,3 +12,6 @@ If you find this website useful, please consider citing our related work:
 [[ACM DL](https://dl.acm.org/doi/10.1145/3643832.3661865)] [[PDF](https://dl.acm.org/doi/pdf/10.1145/3643832.3661865)]
 2. W. Zhao *et al.*, [**Flexible High-Level Synthesis Library for Linear Transformations**](https://ieeexplore.ieee.org/document/10437992) in *IEEE TCAS-II ’24*.
 [[IEEE Xplore](https://ieeexplore.ieee.org/document/10437992)] [[PDF](https://wqzhao.org/assets/zhao2024flexible.pdf)] [[GitHub](https://github.com/autohdw/flames)] [[website](https://flames.autohdw.com)]
+
+## Other Related Projects
+1. [Dual-Mode PSK Transceiver on SDR With FPGA](https://wqzhao.org/projects/sdr-psk-fpga) [[GitHub](https://github.com/Teddy-van-Jerry/sdr-psk-fpga)] [[report](https://go.wqzhao.org/sdr-psk-fpga)]

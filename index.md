@@ -11,8 +11,3 @@ This website is presented by
 from the [University of California San Diego](https://ucsd.edu).
 
 Bookmark 🌟 the website link: [RFSoC.dev](https://rfsoc.dev).
-
-<div itemscope="" itemtype="https://schema.org/WebSite">
-  <meta itemprop="url" content="https://rfsoc.dev">
-  <meta itemprop="name" content="RFSoC.dev">
-</div>
