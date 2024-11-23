@@ -6,6 +6,14 @@ nav_order: 5
 ---
 
 # My Practices
+{: .no_toc }
+
+---
+## Table of Contents
+{: .no_toc .text-delta }
+1. TOC
+{:toc}
+---
 
 ## General
 - Ba patient. Debugging RFSoC designs is not easy.
