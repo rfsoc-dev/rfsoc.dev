@@ -54,6 +54,9 @@ Use the following settings in `.vscode/settings.json`: [^vscode-github-copilot-f
         "GitHub.copilot": [
             "ui",
         ],
+        "GitHub.copilot-chat": [
+            "ui",
+        ],
     }
 }
 ```

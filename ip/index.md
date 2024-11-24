@@ -15,4 +15,4 @@ Some useful open-source IP libraries[^1]:
 - [1G/10G/25G Ethernet](https://github.com/alexforencich/verilog-ethernet) for Verilog
 - [AXI Utilities](https://github.com/alexforencich/verilog-axi) & [AXIS Utilities](https://github.com/alexforencich/verilog-axis) for Verilog
 
-[^1]: All These libraries have been tested by [Wuqiong Zhao](https://wqzhao.org).
+[^1]: All these libraries have been tested by [Wuqiong Zhao](https://wqzhao.org).
