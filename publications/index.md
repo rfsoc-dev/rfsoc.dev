@@ -17,4 +17,4 @@ If you find this website useful, please consider citing our related work:
 1. [Dual-Mode PSK Transceiver on SDR With FPGA](https://wqzhao.org/projects/sdr-psk-fpga) [[GitHub](https://github.com/Teddy-van-Jerry/sdr-psk-fpga)] [[report](https://go.wqzhao.org/sdr-psk-fpga)]
 
 ## Presentations
-1. Efficient Hardware Design Using HDL & HLS - Bridging Software Expertise to Hardware Acceleration [[slides](https://wqzhao.org/assets/HDL_HLS_slides_20250510.pdf)]
+1. Efficient Hardware Design Using HDL & HLS - Bridging Software Expertise to Hardware Acceleration [[slides](https://wqzhao.org/assets/HDL_HLS_slides_20250510.pdf)] [[video](https://youtu.be/cbVA9ocOId0)]
