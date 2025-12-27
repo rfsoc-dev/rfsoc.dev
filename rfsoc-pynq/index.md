@@ -25,7 +25,7 @@ However, for package installation including [`RFSoC-MTS`](https://github.com/Xil
 
 Here is a working method to enable internet access on PYNQ used by me.
 
-{: .callout .callout-warning }
+{: .warning }
 > Use at your own risk. Different systems and network environments may require different settings.
 
 ### Prerequisites

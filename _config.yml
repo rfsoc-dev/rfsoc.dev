@@ -24,3 +24,29 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .vscode
+
+callouts:
+  warning:
+    title: Warning
+    color: yellow
+  hint:
+    title: Hint
+    color: grey-lt
+  important:
+    title: Important
+    color: green
+  note:
+    title: Note
+    color: grey-dk
+  tip:
+    title: Tip
+    color: blue
+  caution:
+    title: Caution
+    color: red
+  error:
+    title: Error
+    color: pink
+  attention:
+    title: Attention
+    color: purple
