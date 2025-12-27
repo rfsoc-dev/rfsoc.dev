@@ -2,7 +2,7 @@
 title: My Practices
 permalink: /my-practices
 layout: default
-nav_order: 5
+nav_order: 6
 ---
 
 # My Practices
